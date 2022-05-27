@@ -1,2 +1,15 @@
 pwd
 ls
+cd root
+ls -l
+ls -a
+ls -lna
+mkdir /tmp /directory
+mv /tmp/betty /tmp/my_first_directory/betty
+rm /tmp/my_first_directory/betty
+rm -r /tmp/my_first_directory
+cd-
+ls -al . .. /boot
+file /tmp/iamafile
+ln -s /bin/ls __ls__
+cp -nu *.html ..
